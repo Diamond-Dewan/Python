@@ -11,10 +11,10 @@ matrix = [
     [1, 2, 3, 4, 5],
     [4, 5, 6, 7, 8],
     [1, 0, 3, 8, 9],
-    [4, 8, 3, 2, 1]
+    [4, 8, 3, 2, 1],
 ]
 
-for lst in matrix:
-    for items in lst:
+for lists in matrix:
+    for items in lists:
         print(items, end=' ')
     print()
