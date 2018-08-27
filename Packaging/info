@@ -1,0 +1,3 @@
+A package is a collection of Python modules: while a module is a single Python file, 
+a package is a directory of Python modules containing an additional __init__.py file, 
+to distinguish a package from a directory that just happens to contain a bunch of Python scripts.
